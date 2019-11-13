@@ -1,0 +1,13 @@
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Services.deps.json
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Services.dll
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Services.pdb
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Data.dll
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Entities.dll
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Data.pdb
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\bin\Debug\netstandard2.1\MovieShop.Entities.pdb
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.csprojAssemblyReference.cache
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.AssemblyInfoInputs.cache
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.AssemblyInfo.cs
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.csproj.CopyComplete
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.dll
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Services\obj\Debug\netstandard2.1\MovieShop.Services.pdb

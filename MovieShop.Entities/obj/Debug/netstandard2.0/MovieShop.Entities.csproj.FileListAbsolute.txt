@@ -1,0 +1,8 @@
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Entities\bin\Debug\netstandard2.0\MovieShop.Entities.deps.json
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Entities\bin\Debug\netstandard2.0\MovieShop.Entities.dll
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Entities\bin\Debug\netstandard2.0\MovieShop.Entities.pdb
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Entities\obj\Debug\netstandard2.0\MovieShop.Entities.csprojAssemblyReference.cache
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Entities\obj\Debug\netstandard2.0\MovieShop.Entities.AssemblyInfoInputs.cache
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Entities\obj\Debug\netstandard2.0\MovieShop.Entities.AssemblyInfo.cs
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Entities\obj\Debug\netstandard2.0\MovieShop.Entities.dll
+C:\Users\Peggy Ma\Desktop\antra\webAPI\MovieShop\MovieShop.Entities\obj\Debug\netstandard2.0\MovieShop.Entities.pdb
