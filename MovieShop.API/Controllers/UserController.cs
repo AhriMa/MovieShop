@@ -81,7 +81,7 @@ namespace MovieShop.API.Controllers
         }
 
         private string GenerateToken(User user)
-        {
+        {//test
             //claim
             var claims = new List<Claim>
             {
